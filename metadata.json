@@ -1,0 +1,7 @@
+{
+  "name": "ChromaRevive AI",
+  "description": "A high-end, AI-powered photo colorization tool that breathes life into old black and white memories using Gemini's advanced image processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
